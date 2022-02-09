@@ -2,6 +2,6 @@ class Test
 {
 	public ststic void main(String []args)
 	{
-		System.out.println("hello world");
+		System.out.println("Anshuman is a programmer");
 	}
 }
